@@ -1,3 +1,4 @@
+<img src="OpenBattery_logo.png" alt="OpenBattery" class="center">
 # University of Sherbrooke Open Battery Project
 # "Under construction"
 
